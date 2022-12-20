@@ -1,0 +1,2 @@
+﻿Proj1.obj : error LNK2019: unresolved external symbol "public: int __thiscall number_set::find_value(int,int *,int)" (?find_value@number_set@@QAEHHPAHH@Z) referenced in function "public: void __thiscall number_set::main_menu(int *,int)" (?main_menu@number_set@@QAEXPAHH@Z)
+C:\Users\TimT\source\repos\CS303-Project1\CS303-Project1\Debug\CS303-Project1.exe : fatal error LNK1120: 1 unresolved externals
